@@ -1,0 +1,5 @@
+    "scrollbar.shadow": "#151D2B",
+    "contrastBorder": "#151D2B",
+    "widget.shadow": "#151D2B",
+    "editorOverviewRuler.border": "#151D2B",
+    "editor.background": "#151D2B",
